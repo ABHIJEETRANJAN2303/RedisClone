@@ -1,0 +1,6 @@
+build/
+data/
+results/
+redis_clone
+.DS_Store
+.vscode/
