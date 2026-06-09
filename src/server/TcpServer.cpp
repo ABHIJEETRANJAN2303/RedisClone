@@ -284,7 +284,7 @@ void TcpServer::handleEvent(
     bool readable,
     bool writable)
 {
-    if (fd == serverFd && // Listening Socket Case
+    if (fd == serverFd && // Listening Socket
         readable)
     {
 
